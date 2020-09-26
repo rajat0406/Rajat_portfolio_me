@@ -1,26 +1,22 @@
 export default
     {
-        //(Please Do Not Remove The comma(,) after every variable)
-        //Change The Website Template
-        name :'chetanverma.',
-        headerTagline: [//Line 1 For Header
-                        'Hi 👋 You found me! I am Your Name.',
-                        //Line 2 For Header
-                        'Digital designer ',
-                        //Line 3 For Header
+        name :'Rajat Rastogi',
+        headerTagline: [
+                        'Hi! I am Rajat Rastogi.',
+                        'Software Engineer',
                         'from India'
     ],
         //Contact Email
-        contactEmail:'hello@chetanverma.com',
+        contactEmail:'rajat0406srm@gmail.com',
         // Add Your About Text Here
-        abouttext: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        aboutImage:'https://images.unsplash.com/photo-1521587765099-8835e7201186?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
+        abouttext: "Rajat Rastogi completed the graduation from SRM Institute of Science and Technology, Chennai[2020] in B.Tech(INFORMATION TECHNOLOGY) with an interest in Java developer, Frontend Engineer, and Software Developer. The passion for software developer and a programmer always encourage him to boost his technical skills. So, now in the industry, the passion for the developer remains with him. He was a member of NSS in the Year(2016-2017) and he visited for the social development and services in villages. Thereafter he joined the Swachh Bharat Summer Internship awarded with the third prize at the university level and the First Prize for the team management.",
+        aboutImage:'',
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
        projects:[
            {
-            id: 1,//DO NOT CHANGE THIS (Please)😅
+            id: 1,
             title:'Project One', //Project Title - Add Your Project Title Here
              service:'UI/UX Design', // Add Your Service Type Here
             //Project Image - Add Your Project Image Here
@@ -29,37 +25,26 @@ export default
              url:'http://chetanverma.com/'
             },
             {
-                id: 2,//DO NOT CHANGE THIS (Please)😅
+                id: 2,
                 title: 'Project Two',
                 service: 'Website Development',
                 imageSrc: "https://images.unsplash.com/photo-1554866585-cd94860890b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
                 url: 'http://chetanverma.com/'
             },
             { 
-                id: 3,//DO NOT CHANGE THIS (Please)😅
+                id: 3,
                 title: 'Project Three',
                 service: 'Web App',
                 imageSrc: "https://images.unsplash.com/photo-1511500118080-275313ec90a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
                 url: 'http://chetanverma.com/'
             },
             {
-                id: 4,//DO NOT CHANGE THIS (Please)😅
+                id: 4,
                 title: 'Project Four',
                 service: 'Branding',
                 imageSrc: "https://images.unsplash.com/photo-1558452919-08ae4aea8e29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
                 url: 'http://chetanverma.com/'
            }
-
-                    /*
-                    If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-                ,{
-                id: 5,
-                title: 'Project Five',
-                service: 'Something Amazing',
-                imageSrc: "",
-                url: ''
-            }
-                */
         ],
         social: [
             // Add Or Remove The Link Accordingly
